@@ -45,7 +45,7 @@
 
 ## Extras
 <p align="center">
-  <img src="https://github.com/mohtasimjitu/mohtasimjitu/blob/376beb96d2bb42983f842eb0bc46124c1c81f50f/Kira.gif" alt="Anime GIF" width="600"/>
+  <img src="https://github.com/mohtasimjitu/mohtasimjitu/blob/adec533e5640dd4b1fd3c623d5216ae2d49a710d/AL5ICI.gif" alt="Anime GIF" width="600"/>
 </p>
 
 - Favorite Games: FF, PUBG, BLASPHEMOUS, VALORANT, 
