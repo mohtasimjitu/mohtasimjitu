@@ -15,7 +15,7 @@
 
 <!-- Anime Banner -->
 <p align="center">
-  <img src="https://i.ibb.co/nZFYXSq/AL5ICI.gif" alt="Anime Banner" width="800"/>
+  <img src="https://github.com/mohtasimjitu/mohtasimjitu/blob/376beb96d2bb42983f842eb0bc46124c1c81f50f/AL5ICI.gif" alt="Anime Banner" width="800"/>
 </p>
 
 ## About Me
