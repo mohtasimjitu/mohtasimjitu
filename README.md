@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&center=true&width=700&lines=Hey%2C+It's+Jitu!;Founder+%26+CEO+-+RED+X+CORPORATION" alt="Typing SVG" />  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&center=true&width=700&lines=Hey%2C+It's+Jitu!;Founder+%26+CEO+-+RED+X+CORPORATION;GAMER+|+CHEATER+|+PHOTOGRAPHER+|+ANIME+FAN" alt="Typing SVG" />  
 </h1>
 
 <!-- red-x branding -->
@@ -18,9 +18,11 @@
 ## About Me
 - 20-year-old developer from **Bangladesh**  
 - CEO & Founder of **RED-X CORPORATION**  
-- Specializes in **C#, C++, memory engineering, and UI/UX design**  
-- Interests include **physics, math, photography and anime (AOT<3)**  
-- Aspiration: **Travel the world and innovate globally**
+- I now play with games!
+- I love to capture the word through my lens.
+- I dont sleep at night cz animes watch me!
+- I love travelling:)
+
 
 
 
@@ -34,7 +36,9 @@
   <img src="https://github-readme-redx.vercel.app/api/languages.svg" alt="RED-X Language Stats" height="160"/>
 </p>
 
-
+<p align="center">
+  <a href="https://github.com/REDX-CORPORATION"><img src="https://img.shields.io/badge/Github-RED--X--CORP-0099f2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+</p>
 
 ## Skills & Tools
 <p align="center">
@@ -51,7 +55,7 @@
 - Favorite Games: FF, PUBG, BLASPHEMOUS, VALORANT, 
 - Favorite Music: Lo-fi & Anime OSTs  
 - Favorite Anime: Attack on Titan, One Piece, Naruto, Death Note and Redo of healer💀  
-- Hobbies: Photography, Reading tech blogs & exploring new programming languages  
+- Hobbies: Photography, Reading tech blogs & exploring new programming languages
 
 
 
