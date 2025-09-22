@@ -42,7 +42,7 @@
 
 ## Skills & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,cpp,py,html,css,js,react,dotnet,qt,vscode,visualstudio,discord,github,git" />
+  <img src="https://skillicons.dev/icons?i=cs,cpp,py,html,css,js,dotnet,vscode,visualstudio,discord,github,git" />
 </p>
 
 
