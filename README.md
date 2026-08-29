@@ -16,7 +16,7 @@
 
 
 ## About Me
-- 20-year-old developer from **Bangladesh**  
+- 20 yo developer from **Bangladesh**  
 - CEO & Founder of **RED-X CORPORATION**  
 - I now play with games!
 - I love to capture the word through my lens.
